@@ -4,21 +4,21 @@
 <p align="left"> <a href="https://twitter.com/uvesh794" target="blank"><img src="https://img.shields.io/twitter/follow/uvesh794?logo=twitter&style=for-the-badge" alt="uvesh794" /></a> </p>
 
 - **🔭 I’m currently Studying in TY BCA**
-- *At Narmada College of Science and Commerce under Veer Narmad South Gujarat University*
+*At Narmada College of Science and Commerce under Veer Narmad South Gujarat University*
 
 - **🌱 I’m currently learning and want to learn**
-- **Mobile Application Development,DSA,Flutter,.net,Data Visualisation & Analysis and Networking & Cyber Security**
+ **Mobile Application Development,DSA,Flutter,.net,Data Visualisation & Analysis and Networking & Cyber Security**
 
 - **🗃️ I Created small projects in Android Studio and Microsoft Visual Studio**
-- I develop various Android apps:
-- Bill Generator for restaurant,
-- Unit Convert,
-- Number System Convertor,
-- GUI Clone of WhatsApp,
-- Registration app's Ui with various features and restrictions,
-- Expression Converter that converts infiex expectation into Prefix or Postfix expiration as per User's Choice.
-- I'm also create Audio and Video downloader, it's developed in Android studio and it's accepts YouTube video's Link and then give option to download Video or Audio from that link ,User can download content in audio or video format as per it's requirement.
-- I'm also create some tiny application prototype in flutter like Page of Recipe book,Bill Generator and Items list display page
+ I develop various Android apps:
+ Bill Generator for restaurant,
+ Unit Convert,
+ Number System Convertor,
+ GUI Clone of WhatsApp,
+ Registration app's Ui with various features and restrictions,
+ Expression Converter that converts infiex expectation into Prefix or Postfix expiration as per User's Choice.
+ I'm also create Audio and Video downloader, it's developed in Android studio and it's accepts YouTube video's Link and then give option to download Video or Audio from that link ,User can download content in audio or video format as per it's requirement.
+ I'm also create some tiny application prototype in flutter like Page of Recipe book,Bill Generator and Items list display page
 
 - **📂 I also Create various widows applications using .net and ADO.net using Microsoft Visual Studio IDE**
 - I develop Simulation of Notepad with various advance features that are not present in Notepad,
