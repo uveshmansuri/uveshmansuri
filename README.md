@@ -48,17 +48,13 @@
   <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
  </ul>
 
-<h2>📫 How to Reach Me:</h2>
-            <ul>
-                <li>Email: <a href="mailto:uveshmansuri794@gmail.com">uveshmansuri794@gmail.com</a></li>
-                <li>Twitter: <a href="https://twitter.com/uvesh794" target="_blank">@uvesh794</a></li>
-            </ul>
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">📫 How to Reach Me:</h2>
 <p align="left">
-<a href="https://twitter.com/uvesh794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uvesh794" height="30" width="40" /></a>
+<a href="mailto:uveshmansuri794@gmail.com">uveshmansuri794@gmail.com</a><br>
+<br><a href="https://twitter.com/uvesh794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uvesh794" height="30" width="40" /></a>            
 <a href="https://linkedin.com/in/uvesh mansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvesh mansuri" height="30" width="40" /></a>
 </p>
+
 
 <h2 align="left">Languages and Tools:</h2>
 
