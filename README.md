@@ -17,7 +17,7 @@
 </ul></p>
 
 <h2>🗃️ Projects</h2>
-<h3>Android Apps Developed:</h3>
+<h3>Android Applications:</h3>
             <ul>
                 <li><strong>Bill Generator for Restaurant:</strong> A tool to generate bills.</li>
                 <li><strong>Unit Converter:</strong> Converts various units.</li>
