@@ -3,32 +3,52 @@
 
 <p align="left"> <a href="https://twitter.com/uvesh794" target="blank"><img src="https://img.shields.io/twitter/follow/uvesh794?logo=twitter&style=for-the-badge" alt="uvesh794" /></a> </p>
 
-- **🔭 I’m currently Studying in TY BCA**
-- At Narmada College of Science and Commerce under Veer Narmad South Gujarat University*
+<h2 align="left">🔭 Current Status</h3>
+<p alingn="left">Studying:-TY BCA at Narmada College of Science and Commerce under Veer Narmad South Gujarat University</p>
 
-- **🌱 I’m currently learning and want to learn**
-- **Mobile Application Development,DSA,Flutter,.net,Data Visualisation & Analysis and Networking & Cyber Security**
+<h2>🌱 Learning Focus</h2>
+<p><ul>
+<li>Mobile Application Development</li>
+<li>Data Structures and Algorithms (DSA)</li>
+<li>Flutter</li>
+<li>.NET</li>
+<li>Data Visualization & Analysis</li>
+<li>Networking & Cyber Security</li>
+</ul></p>
 
-- **🗃️I Created small projects in Android Studio and Microsoft Visual Studio**
-- I develop various Android apps:
--  Bill Generator for restaurant,
--  Unit Convert,
--  Number System Convertor,
--  GUI Clone of WhatsApp,
--  Registration app's Ui with various features and restrictions,
--   Expression Converter that converts infiex expectation into Prefix or Postfix expiration as per User's Choice.
--    I'm also create Audio and Video downloader, it's developed in Android studio and it's accepts YouTube video's Link and then give option to download Video or Audio from that link ,User can download content in audio or video format as per it's requirement.
--    I'm also create some tiny application prototype in flutter like Page of Recipe book,Bill Generator and Items list display page.
+<h2>🗃️ Projects</h2>
+<h3>Android Apps Developed:</h3>
+            <ul>
+                <li><strong>Bill Generator for Restaurant:</strong> A tool to generate bills.</li>
+                <li><strong>Unit Converter:</strong> Converts various units.</li>
+                <li><strong>Number System Converter:</strong> Converts numbers between different systems.</li>
+                <li><strong>GUI Clone of WhatsApp:</strong> A graphical user interface clone of WhatsApp.</li>
+                <li><strong>Registration App UI:</strong> Features various UI elements and restrictions.</li>
+                <li><strong>Expression Converter:</strong> Converts infix expressions to prefix or postfix as per user choice.</li>
+                <li><strong>Audio and Video Downloader:</strong> Downloads audio and video from YouTube links.</li>
+            </ul>
+            <h3>Flutter Prototypes:</h3>
+            <ul>
+                <li><strong>Recipe Book Page:</strong> Displays recipes.</li>
+                <li><strong>Bill Generator:</strong> Prototype for generating bills.</li>
+                <li><strong>Item List Display Page:</strong> Displays a list of items.</li>
+            </ul>
+            <h3>Microsoft Visual Studio (.NET) Projects:</h3>
+            <ul>
+                <li><strong>Notepad Simulation:</strong> Notepad with advanced features.</li>
+                <li><strong>Stock Management Application:</strong> Windows Application for stock management (using MS Access Database)</li>
+                <li><strong>Student Management Applicatiion:</strong> Application for maintaining student's acadmic details, contains various manipulation features (using MS Access Database)</li> </ul>
 
-- **📂 I also Create various widows applications using .net and ADO.net using Microsoft Visual Studio IDE**
-- I develop Simulation of Notepad with various advance features that are not present in Notepad,
-- Also create windows application that connects with Ms-access database and maintan Record of Goods,
-- I'm also create same application for maintain students details and searching and various manipulation features
+ <h2>👨🏻‍💻 Skills</h2>
+ <ul>
+  <li><strong>Programming Languages:</strong> C, C++, Java, Python, VB.NET, Dart, PL/SQL</li>
+  <li><strong>Databases:</strong> SQL, SQLite, MS Access</li>
+  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET, ADO.NET, vs Code, Android Studio, Microsoft Visual Studio</li>
+  <li><strong>Python Libraries:</strong> Pandas, NumPy, Matplotlib, Pyautogui, Pytube, Turtle</li>
+  <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
+ </ul>
 
--**👨🏻‍💻 I know various programing languages like C,C++,Java,Python,Vb.net,Dart**
-- *I am also work in Database like SQL,Sqlite,Ms Access and also use Database connectivity with Python and .net for Database Management and Data Visualisation & Analysis with various Python libraries like Pandas,Numpy,matplotlib*
-
-- 📫 How to reach me **uveshmansuri794@gmail.com**
+<p><strong>📫 How to Reach Me:</strong>uveshmansuri794@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
