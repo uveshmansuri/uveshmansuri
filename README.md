@@ -48,7 +48,7 @@
   <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
  </ul>
 
-<p><strong>📫 How to Reach Me:</strong>uveshmansuri794@gmail.com </p>
+<p><strong>📫 How to Reach Me:</strong> uveshmansuri794@gmail.com <p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
