@@ -16,6 +16,16 @@
 <li>Networking & Cyber Security</li>
 </ul></p>
 
+ <h2>👨🏻‍💻 Skills</h2>
+ <ul>
+  <li><strong>Programming Languages:</strong> C, C++, Java, Python, VB.NET, Dart, PL/SQL</li>
+  <li><strong>Databases:</strong> SQL, SQLite, MS Access</li>
+  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET, ADO.NET, HTML, Php, Wordpress, vs Code, Android Studio, Microsoft Visual Studio</li>
+  <li><strong>Python Libraries:</strong> Pandas, NumPy, Matplotlib, Pyautogui, Pytube, Turtle</li>
+  <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
+ </ul>
+ 
+
 <h2>🗃️ My recent work(Projects)</h2>
 <h3>Android Applications:</h3>
             <ul>
@@ -39,15 +49,6 @@
                 <li><strong>Stock Management Application:</strong> Windows Application for stock management (using MS Access Database)</li>
                 <li><strong>Student Management Applicatiion:</strong> Application for maintaining student's acadmic details, contains various manipulation features (using MS Access Database)</li> </ul>
 
- <h2>👨🏻‍💻 Skills</h2>
- <ul>
-  <li><strong>Programming Languages:</strong> C, C++, Java, Python, VB.NET, Dart, PL/SQL</li>
-  <li><strong>Databases:</strong> SQL, SQLite, MS Access</li>
-  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET, ADO.NET, HTML, Php, vs Code, Android Studio, Microsoft Visual Studio</li>
-  <li><strong>Python Libraries:</strong> Pandas, NumPy, Matplotlib, Pyautogui, Pytube, Turtle</li>
-  <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
- </ul>
-
 <h2 align="left">📫 How to Reach Me:</h2>
 <p align="left">
 <a href="mailto:uveshmansuri794@gmail.com">uveshmansuri794@gmail.com</a><br>
@@ -57,7 +58,6 @@
 
 
 <h2 align="left">Languages and Tools:</h2>
-
 <p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" alt="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> 
