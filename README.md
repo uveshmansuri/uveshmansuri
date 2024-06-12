@@ -16,7 +16,7 @@
 <li>Networking & Cyber Security</li>
 </ul></p>
 
-<h2>🗃️ Projects</h2>
+<h2>🗃️ My recent work(Projects)</h2>
 <h3>Android Applications:</h3>
             <ul>
                 <li><strong>Bill Generator for Restaurant:</strong> A tool to generate bills.</li>
@@ -43,7 +43,7 @@
  <ul>
   <li><strong>Programming Languages:</strong> C, C++, Java, Python, VB.NET, Dart, PL/SQL</li>
   <li><strong>Databases:</strong> SQL, SQLite, MS Access</li>
-  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET, ADO.NET, vs Code, Android Studio, Microsoft Visual Studio</li>
+  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET, ADO.NET, HTML, Php, vs Code, Android Studio, Microsoft Visual Studio</li>
   <li><strong>Python Libraries:</strong> Pandas, NumPy, Matplotlib, Pyautogui, Pytube, Turtle</li>
   <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
  </ul>
