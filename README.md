@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/uvesh794" target="blank"><img src="https://img.shields.io/twitter/follow/uvesh794?logo=twitter&style=for-the-badge" alt="uvesh794" /></a> </p>
 
 <h2 align="left">🔭 Current Status</h3>
-<p alingn="left">Studying:-TY BCA at Narmada College of Science and Commerce under Veer Narmad South Gujarat University</p>
+<p alingn="left"><strong>Studying:-</strong>TY BCA at Narmada College of Science and Commerce under Veer Narmad South Gujarat University</p>
 
 <h2>🌱 Learning Focus</h2>
 <p><ul>
