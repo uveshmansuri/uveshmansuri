@@ -19,10 +19,10 @@
  <h2>👨🏻‍💻 Skills</h2>
  <ul>
   <li><strong>Programming Languages:</strong> C, C++, Java, Python, VB.NET, Dart, PL/SQL</li>
-  <li><strong>Databases:</strong> SQL, SQLite, MS Access</li>
-  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET, ADO.NET, HTML, Php, Wordpress, vs Code, Android Studio, Microsoft Visual Studio</li>
+  <li><strong>Databases:</strong> SQL, SQLite, MS Access,FireBase</li>
+  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET Framework, ADO.NET, HTML, Php, Wordpress, vs Code, Android Studio, Microsoft Visual Studio</li>
   <li><strong>Python Libraries:</strong> Pandas, NumPy, Matplotlib, Pyautogui, Pytube, Turtle</li>
-  <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db</li>
+  <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db,SQLite with Android and Also Firebase with Android</li>
  </ul>
  
 
