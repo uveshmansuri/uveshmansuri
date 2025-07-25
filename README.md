@@ -3,51 +3,114 @@
 
 <p align="left"> <a href="https://twitter.com/uvesh794" target="blank"><img src="https://img.shields.io/twitter/follow/uvesh794?logo=twitter&style=for-the-badge" alt="uvesh794" /></a> </p>
 
-<h2 align="left">🔭 Current Status</h3>
-<p alingn="left"><strong>Studying:-</strong>TY BCA at Narmada College of Science and Commerce under Veer Narmad South Gujarat University</p>
+## 👤 Personal Info
 
-<h2>🌱 Learning Focus</h2>
-<p><ul>
-<li>Mobile Application Development</li>
-<li>Data Structures and Algorithms (DSA)</li>
-<li>Flutter</li>
-<li>.NET</li>
-<li>Data Visualization & Analysis</li>
-<li>Networking & Cyber Security</li>
-</ul></p>
+- 👨‍💻 **Full Name:** Uvesh Salim Mansuri  
+- 🎂 **Date of Birth:** 07-Sep-2004  
+- 📍 **Location:** Sheth Faliya Vadadla, Bharuch, Gujarat, India, 302015  
+- 📧 **Email:** [uveshmansuri794@gmail.com](mailto:uveshmansuri794@gmail.com)  
+- 💼 **Current Role:** MCA Student at Manipal University Jaipur (Online Mode)  
+- 🚀 **Aspiration:** Flutter & Android Developer | Learning AI, ML & Computer Vision  
 
- <h2>👨🏻‍💻 Skills</h2>
- <ul>
-  <li><strong>Programming Languages:</strong> C, C++, Java, Python, VB.NET, Dart, PL/SQL</li>
-  <li><strong>Databases:</strong> SQL, SQLite, MS Access,FireBase</li>
-  <li><strong>Technologies & IDEs:</strong> Android, Flutter, .NET Framework, ADO.NET, HTML, Php, Wordpress, vs Code, Android Studio, Microsoft Visual Studio</li>
-  <li><strong>Python Libraries:</strong> Pandas, NumPy, Matplotlib, Pyautogui, Pytube, Turtle</li>
-  <li>I'm also worke on Database (i used sqlit database) connectivity with Python and Data manipulation & visualitation and also DB connectivity with .net using Oledb connection from Ms Access db,SQLite with Android and Also Firebase with Android and  Flutter</li>
- </ul>
- 
+---
 
-<h2>🗃️ My recent work(Projects)</h2>
-<h3>Android Applications:</h3>
-            <ul>
-                <li><strong>Bill Generator for Restaurant:</strong> A tool to generate bills.</li>
-                <li><strong>Unit Converter:</strong> Converts various units.</li>
-                <li><strong>Number System Converter:</strong> Converts numbers between different systems.</li>
-                <li><strong>GUI Clone of WhatsApp:</strong> A graphical user interface clone of WhatsApp.</li>
-                <li><strong>Registration App UI:</strong> Features various UI elements and restrictions.</li>
-                <li><strong>Expression Converter:</strong> Converts infix expressions to prefix or postfix as per user choice.</li>
-                <li><strong>Audio and Video Downloader:</strong> Downloads audio and video from YouTube links.</li>
-            </ul>
-            <h3>Flutter Prototypes:</h3>
-            <ul>
-                <li><strong>Recipe Book Page:</strong> Displays recipes.</li>
-                <li><strong>Bill Generator:</strong> Prototype for generating bills.</li>
-                <li><strong>Item List Display Page:</strong> Displays a list of items.</li>
-            </ul>
-            <h3>Microsoft Visual Studio (.NET) Projects:</h3>
-            <ul>
-                <li><strong>Notepad Simulation:</strong> Notepad with advanced features.</li>
-                <li><strong>Stock Management Application:</strong> Windows Application for stock management (using MS Access Database)</li>
-                <li><strong>Student Management Applicatiion:</strong> Application for maintaining student's acadmic details, contains various manipulation features (using MS Access Database)</li> </ul>
+## 🎓 Education
+
+- **MCA (Pursuing):** Manipal University Jaipur (Online)  
+- **BCA (2022–2025):** Narmada College of Science & Commerce – *CGPA: 8.67/10*  
+- **12th Science (PCM, 2022):** GNFC Narmada Vidyalaya – *54%*
+
+---
+
+## 🎯 Goals & Aspirations
+
+Uvesh is a passionate and driven computer science undergraduate, aspiring to become a mobile app developer specializing in Flutter, Python, and full-stack application development. He is enthusiastic about creating smart, real-world solutions, especially for:
+
+- 📚 Education Systems
+- 🤖 AI-Based Automation
+- 🏢 Administrative Applications for Institutions (Schools & Colleges)
+
+Currently seeking **internships** and **full-time roles** to contribute, learn, and grow in the tech ecosystem.
+
+## 💼 Skills & Technical Proficiency
+
+- **Languages:** Dart, Python, Java, PHP, C, C++, JavaScript, VB.NET  
+- **Frameworks/Platforms:** Flutter, Android SDK, ASP.NET  
+- **Databases:** Firebase (Realtime DB, Auth), MySQL, SQLite  
+- **Tools & IDEs:** VS Code, Android Studio, PyCharm, Git & GitHub  
+- **APIs & Services:** REST APIs, FCM, Firebase Auth, Gemini API  
+- **AI & Python Libraries:** OpenCV, face_recognition, YOLOv8, NumPy, Pandas, Deep Learning, Vector Embeddings  
+- **Soft Skills:** Problem-solving, Leadership, Teamwork, Fast Learning  
+
+---
+
+## 🚀 Key Projects
+
+### 📱 NCSC College App  
+> [Documentation](https://drive.google.com/file/d/1Gp53We7U4ZBFpeifZ9aUbPOyETy_FGBU/view)  
+**Stack:** Flutter, Firebase, Python (OpenCV), Gemini API  
+- AI-Powered attendance with face recognition  
+- Admin dashboards, assignment tracking, announcements  
+- Auto-generation of timetables and test papers using AI  
+- Secure, role-based module access  
+
+---
+
+### 🗒️ Notify – Smart Note Assistant *(In Development)*  
+**Stack:** Flutter, Firebase, Gemini API, Vector Embeddings  
+- AI chatbot for note suggestions, categorization & retrieval  
+- Smart reminders and personalized note experience  
+
+---
+
+### 📚 Coding Hub – Learning App for Android  
+> [APK Link](https://uveshmansuri.github.io/Coding-Hub-Web/downloadlink.html)  
+**Stack:** Android SDK (Java), Firebase, Gemini API  
+- Dynamic quizzes using Gemini AI  
+- Community forum + real-time tech news  
+
+---
+
+### 🧠 Liveness Detection Model  
+> [GitHub Repo](https://github.com/uveshmansuri/Liveness-Check) | [Model Download](https://drive.google.com/file/d/1gtc6ST5g9FKkT8hr6yaQ-ewUHmng7isP/view?usp=sharing)  
+**Stack:** Python, OpenCV, YOLOv8n  
+- Detects real vs. spoofed faces via webcam  
+- Uses YOLOv5-trained model with 4750+ images  
+
+---
+
+## 📚 Additional Prototypes/Projects
+
+### Android Apps
+- Bill Generator for Restaurant  
+- Unit Converter & Number System Converter  
+- WhatsApp GUI Clone  
+- Registration App UI  
+- Expression Converter  
+- YouTube Audio/Video Downloader  
+
+### Flutter Prototypes
+- Recipe Book UI  
+- Item List Display  
+- Bill Generator  
+
+### .NET Applications (Visual Studio)
+- Notepad Clone  
+- Stock Management System  
+- Student Academic Record Management  
+
+---
+
+## 🧠 Personality Traits
+
+- 🧱 **Builder Mindset:** Solves problems through smart tech  
+- 🚀 **Fast Learner:** Always experimenting with AI & Dev Tools  
+- 🤝 **Team Player:** Collaborative and takes initiative  
+- 🎨 **UI/UX Aware:** Balances logic with design in apps  
+
+---
+
+
 
 <h2 align="left">📫 How to Reach Me:</h2>
 <p align="left">
