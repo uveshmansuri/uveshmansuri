@@ -23,8 +23,7 @@
 ---
 
 ## 🎯 Goals & Aspirations
-
-Uvesh is a passionate and driven computer science undergraduate, aspiring to become a mobile app developer specializing in Flutter, Python, and full-stack application development. He is enthusiastic about creating smart, real-world solutions, especially for:
+I'm Uvesh Mansuri a passionate and driven computer application undergraduate and MCA student, aspiring to become a mobile app developer specializing in Flutter, Python, and full-stack android application development. I am enthusiastic about creating smart, real-world solutions, especially for:
 
 - 📚 Education Systems
 - 🤖 AI-Based Automation
